@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sachin Kathuria</h1>
-<h3 align="center">About me:</h3>
+<h3 align="center">Talking about Personal Stuffs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin8178&label=Profile%20views&color=0e75b6&style=flat" alt="sachin8178" /> </p>
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sachin8178/Sachin8178)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin8178" alt="sachin8178" /></a> </p>
+I am a MCA Student . I love programming, reading, writing and speaking.
 
-- 🔭 I’m currently working on **Attendance management system**
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
-- 🌱 I’m currently learning **Kotlin**
+That's why I like to make things that make a difference.
 
-- 💬 Ask me about **Any Thing**
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 📫 How to reach me **sachinkathuria8178@gmail.com**
+- 🔭 I’m currently working on: **Attendance management system**
+
+- 🌱 I’m currently learning: **Kotlin**
+
+- 💬 Ask me about: **Any Thing**
+
+- 📫 How to reach me: **sachinkathuria8178@gmail.com**
 
 - ⚡ Fun fact **I like Blue color More**
 
@@ -31,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin8178&show_icons=true&locale=en" alt="sachin8178" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin8178&" alt="sachin8178" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin8178&label=Profile%20views&color=0e75b6&style=flat" alt="sachin8178" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin8178" alt="sachin8178" /></a> </p>
