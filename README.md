@@ -9,7 +9,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Sachin8178/Sachin8178/blob/master/giphy.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Sachin8178/Sachin8178/blob/main/giphy.gif?raw=true" width="408" height="318" />
 
 - 🔭 I’m currently working on: **Attendance management system**
 
