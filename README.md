@@ -13,7 +13,7 @@ That's why I like to make things that make a difference.
 
 - 🔭 I’m currently working on: **Attendance management system**
 
-- 🌱 I’m currently learning: **Kotlin**
+- 🌱 I’m currently learning: **Spring Boot**
 
 - 💬 Ask me about: **Any Thing**
 
