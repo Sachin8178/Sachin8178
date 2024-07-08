@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kathuria</h1>
 <h3 align="center">Talking about Personal Stuffs</h3>
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sachin8178/Sachin8178)
+## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sachin8178.Sachin8178)
 
 I am a MCA Student . I love programming, reading, writing and speaking.
 
